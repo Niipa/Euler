@@ -1,1 +1,4 @@
 /.gradle/
+/.idea/
+/ProjectEuler.iml
+/build/

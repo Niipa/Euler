@@ -5,6 +5,8 @@ import java.util.List;
 
 public class EvenFibonacciNumbers {
 
+    // Runtime O(1), since loop is always a constant amount of iterations; O(n), otherwise
+    // Space O(1), space is always capped under constant; O(n), otherwise
     public static void main(String[] args) {
         // Java doesn't support tail call optimization, just create sequence iteratively
 
